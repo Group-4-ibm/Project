@@ -85,6 +85,4 @@ SLACK_WEBHOOK_URL=<your_slack_webhook_url>
 - Regularly monitor server logs for any issues or errors.
 - Customize event handling and notifications based on specific project requirements.
 
-## Contributing
 
-We welcome contributions! Feel free to submit issues and pull requests to improve the project.
